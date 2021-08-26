@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("HammerBatchCompiler")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A simple alternative to Hammer's ancient single-threaded map compiling system")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft Corporation")]
+[assembly: AssemblyCompany("andreweathan")]
 [assembly: AssemblyProduct("HammerBatchCompiler")]
-[assembly: AssemblyCopyright("Copyright © Microsoft Corporation 2021")]
+[assembly: AssemblyCopyright("Copyright © andreweathan 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
